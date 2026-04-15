@@ -2,6 +2,12 @@
 
 Aplikacja demonstracyjna łącząca Docker Compose, PostgreSQL i Azure Blob Storage.
 
+
+# Azure App CI/CD
+
+![CI Status](https://github.com/RostyslavDm/azure-app-2/workflows/CI%20-%20Backend%20Tests/badge.svg)
+
+
 ## Funkcjonalności
 
 ### 👥 Baza danych PostgreSQL
