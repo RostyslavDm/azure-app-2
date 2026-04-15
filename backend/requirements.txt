@@ -3,3 +3,7 @@ flask-cors==4.0.0
 psycopg2-binary==2.9.9
 azure-storage-blob==12.19.0
 python-dotenv==1.0.0
+
+# Dodaj na końcu backend/requirements.txt
+echo "pytest==7.4.3" >> backend/requirements.txt
+echo "pytest-cov==4.1.0" >> backend/requirements.txt
